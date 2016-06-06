@@ -1,0 +1,7 @@
+[package]
+name = "utprs21"
+version = "0.1.0"
+authors = ["Andre Ryser <andre.ryser@gmail.com>"]
+
+[dependencies]
+nix = "*"
